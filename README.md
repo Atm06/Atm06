@@ -77,6 +77,5 @@ I am a Cloud solutions developer <img src="https://media.giphy.com/media/WUlplcM
 - [AWS EFS](https://dev.to/atm_06/aws-efs-elastic-file-storage-1b60)
 - [AWS Simple Storage Services(s3). S3 buckets, mapping of S3 objects as network drive.](https://dev.to/atm_06/aws-simple-storage-servicess3-s3-buckets-mapping-of-s3-objects-as-network-drive-48g1)
 - [Website Hosting on Ec2 instance with SSL enabled using an Application Load Balancer and Route53.](https://dev.to/atm_06/website-hosting-on-ec2-instance-with-ssl-enabled-using-an-application-load-balancer-and-route53-4dpj)
-- [AWS IAM services] (https://dev.to/atm_06/aws-iam-4m9g)
-- 
+- [AWS IAM services](https://dev.to/atm_06/aws-iam-4m9g) 
 <!-- BLOG-POST-LIST:END -->
