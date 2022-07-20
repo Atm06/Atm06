@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Atm06/Atm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I post stuff about cloud related technologies and Devops tools. Follow for more intresting stuff on cloud services :)
 
 I love nerding out about Cloud Computing, so don't hesitate to reach out!
