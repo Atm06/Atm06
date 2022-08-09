@@ -73,6 +73,7 @@ I am a Cloud solutions developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 ### My most recent posts on [dev.to](https://dev.to/atm_06) 🧾
 <!-- BLOG-POST-LIST:START -->
+- [Bastion Host Setup In Azure Console] (https://dev.to/atm_06/bastion-host-setup-in-azure-console-1m91)
 - [Basics of Cloud Computing](https://dev.to/atm_06/basics-of-cloud-computing-4po7)
 - [AWS EFS](https://dev.to/atm_06/aws-efs-elastic-file-storage-1b60)
 - [AWS Simple Storage Services(s3). S3 buckets, mapping of S3 objects as network drive.](https://dev.to/atm_06/aws-simple-storage-servicess3-s3-buckets-mapping-of-s3-objects-as-network-drive-48g1)
